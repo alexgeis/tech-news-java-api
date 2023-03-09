@@ -164,7 +164,7 @@ main {
 .login-signup-form-wrapper {
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 20px;
     width: 50%;
     margin: 0 auto;
 }
@@ -209,6 +209,5 @@ footer {
 @media screen and (max-width: 768px) {
   .login-signup-form-wrapper {
       flex-direction: column;
-      gap: 20px;
   }
 }
